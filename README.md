@@ -1,4 +1,3 @@
-# CaterNow_Catering_Services
 Project Overview
 CaterNow is a web-based platform that connects customers with catering services for various events. The system allows users to browse caterers, select packages, customize orders with add-ons, and complete the booking process.
 
