@@ -19,12 +19,7 @@ const HomeCatering = () => {
                 ))}
             </div>
 
-            {/* Contact Section */}
-            <div className="contact-section">
-                <h2>Book Our Services</h2>
-                <p>Contact us today to plan your dream get together!</p>
-                <button className="contact-btn">Get a Quote</button>
-            </div>
+
         </div>
     );
 };

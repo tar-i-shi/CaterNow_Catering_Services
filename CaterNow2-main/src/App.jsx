@@ -23,6 +23,7 @@ import BirthdayCateringPackages from "./Pages/BirthdayCateringPackages";
 import PackageCustomization from "./components/PackageCustomization.jsx";
 import BillingInformation from "./components/BillingInformation";
 import BookingConfirmed from "./Pages/BookingConfirmed.jsx";
+import "./index.css";
 function App() {
   return (
     <AuthProvider>

@@ -8,8 +8,7 @@ const HeroSection = () => {
         <section className="hero-section">
             <div className="hero-content">
                 <h1>Welcome to CaterNow</h1>
-                <p>Your one-stop solution for all catering needs.</p>
-                <button className="cta-button" onClick={() => navigate("/login")}>Get Started</button>
+                <p>Where delicious flavors meet impeccable service! Whether you're planning a wedding,</p><p> corporate event, or private gathering, we bring expertly crafted meals and unforgettable dining experiences to your special occasions.</p>
             </div>
 
         </section>

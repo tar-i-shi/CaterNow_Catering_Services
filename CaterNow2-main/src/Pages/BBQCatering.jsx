@@ -19,12 +19,7 @@ const BBQCatering = () => {
                 ))}
             </div>
 
-            {/* Contact Section */}
-            <div className="contact-section">
-                <h2>Book Our Services</h2>
-                <p>Contact us today to plan your dream BBQ Outing!</p>
-                <button className="contact-btn">Get a Quote</button>
-            </div>
+
         </div>
     );
 };
